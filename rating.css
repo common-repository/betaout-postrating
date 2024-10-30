@@ -1,0 +1,47 @@
+/* 
+    Document   : images
+    Created on : Aug 21, 2012, 12:30:01 PM
+    Author     : amit kumar srivastava.
+    Description: amee9451@gmail.com 
+        Purpose of the stylesheet follows.
+*/
+.heartBlackSmall{background:url('images/small/heart/heartBlack.png')repeat-x; height:21px;width:22px;display:inline-block; }
+.heartRedSmall{background:url('images/small/heart/heartRed.png')repeat-x; height:21px;width:22px;display:inline-block;position:absolute; bottom:0px;left:0}
+
+.iceBlackSmall{background:url('images/small/ice/iceBlack.png')repeat-x; height:21px;width:22px;display:inline-block; }
+.iceRedSmall{background:url('images/small/ice/iceRed.png')repeat-x; height:21px;width:22px;display:inline-block;position:absolute; bottom:0px;left:0}
+
+.starBlackSmall{background:url('images/small/star/starBlack.png')repeat-x; height:21px;width:22px;display:inline-block; }
+.starRedSmall{background:url('images/small/star/starYellow.png')repeat-x; height:21px;width:22px;display:inline-block;position:absolute; bottom:0px;left:0}
+
+.tommatoBlackSmall{background:url('images/small/tommato/tommatoBlack.png')repeat-x; height:21px;width:22px;display:inline-block; }
+.tommatoRedSmall{background:url('images/small/tommato/tommatoRed.png')repeat-x; height:21px;width:22px;display:inline-block;position:absolute; bottom:0px;left:0}
+
+
+.heartBlackMedium{background:url('images/medium/heart/heartBlack.png')repeat-x; height:28px;width:30px;display:inline-block; }
+.heartRedMedium{background:url('images/medium/heart/heartRed.png')repeat-x;height:28px;width:30px;display:inline-block;position:absolute;bottom:0px;left:0}
+
+.iceBlackMedium{background:url('images/medium/ice/iceBlack.png')repeat-x;height:28px;width:30px;display:inline-block; }
+.iceRedMedium{background:url('images/medium/ice/iceRed.png')repeat-x;height:28px;width:30px;display:inline-block;position:absolute;bottom:0px;left:0}
+
+.starBlackMedium{background:url('images/medium/star/starBlack.png')repeat-x;height:28px;width:30px;display:inline-block; }
+.starRedMedium{background:url('images/medium/star/starYellow.png')repeat-x;height:28px;width:30px;display:inline-block;position:absolute; bottom:0px;left:0}
+
+.tommatoBlackMedium{background:url('images/medium/tommato/tommatoBlack.png')repeat-x;height:28px;width:30px;display:inline-block; }
+.tommatoRedMedium{background:url('images/medium/tommato/tommatoRed.png')repeat-x;height:28px;width:30px;display:inline-block;position:absolute; bottom:0px;left:0}
+
+
+.heartBlackLarge{background:url('images/large/heart/heartBlack.png')repeat-x; height:42px;width:44px;display:inline-block; }
+.heartRedLarge{background:url('images/large/heart/heartRed.png')repeat-x;height:42px;width:44px;display:inline-block;position:absolute; bottom:0px;left:0}
+
+.iceBlackLarge{background:url('images/large/ice/iceBlack.png')repeat-x;height:42px;width:44px;display:inline-block; }
+.iceRedLarge{background:url('images/large/ice/iceRed.png')repeat-x;height:42px;width:44px;display:inline-block;position:absolute; bottom:0px;left:0}
+
+.starBlackLarge{background:url('images/large/star/starBlack.png')repeat-x;height:42px;width:44px;display:inline-block; }
+.starRedLarge{background:url('images/large/star/starYellow.png')repeat-x;height:42px;width:44px;display:inline-block;position:absolute; bottom:0px;left:0}
+
+.tommatoBlackLarge{background:url('images/large/tommato/tommatoBlack.png')repeat-x;height:42px;width:44px;display:inline-block; }
+.tommatoRedLarge{background:url('images/large/tommato/tommatoRed.png')repeat-x;height:42px;width:44px;display:inline-block;position:absolute; bottom:0px;left:0}
+.engage_imagesDiv{position:relative;overflow:hidden;}
+.engage_tips{-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;-moz-border-radius: 4px;-o-border-radius: 4px;border-left: 10px solid transparent;border-right: 10px solid transparent;border-bottom: 5px solid DarkKhaki;background-color: threedshadow;position: absolute;height: 20px;}
+.engage_tips span{color: infotext;font-size: 10px;position: relative;top: 5px;}/*font-weight: bolder; top: 8px;*/
